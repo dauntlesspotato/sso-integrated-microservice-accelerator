@@ -1,9 +1,9 @@
 accelerator:
-  displayName: Cert/CA Starter Kit
-  description: Starter kit for a microservice utilizing certificate best practices.
+  displayName: SSO-Integrated Microservice 
+  description: Starter kit for a microservice that is integrated with a certain specific SSO source. 
   iconUrl: https://<git repo>/padlock.png
   tags:
   - simple
   - getting-started
   - ATO-Fast-Track
-  - certificates
+  - security
