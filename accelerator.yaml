@@ -1,0 +1,9 @@
+accelerator:
+  displayName: Cert/CA Starter Kit
+  description: Starter kit for a microservice utilizing certificate best practices.
+  iconUrl: https://<git repo>/padlock.png
+  tags:
+  - simple
+  - getting-started
+  - ATO-Fast-Track
+  - certificates
